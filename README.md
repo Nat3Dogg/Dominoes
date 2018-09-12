@@ -8,17 +8,17 @@ These are the awesome people working on the project
 
 ```markdown
 
-# Header 1
-## Header 2
-### Header 3
-
 # Project Manager
   - Andrew
 # Requirments Manager 
   - Abhilash Veerapareni
 # Planner
   - Paul
-#
+# Desinger 
+  - Vicky
+# Implementation Manager
+  - Alexis
+# Collab
 - Bulleted
 - List
 
