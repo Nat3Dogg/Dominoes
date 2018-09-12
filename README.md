@@ -1,20 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to Dominoes
 
-You can use the [editor on GitHub](https://github.com/Nat3Dogg/Dominos/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are a group of awesome people working on developing a Blockchain project
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+These are the awesome people working on the project
 
 ```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
 ### Header 3
 
+# Project Manager
+  - Andrew
+# Requirments Manager 
+  - Abhilash Veerapareni
+# Planner
+  - Paul
+#
 - Bulleted
 - List
 
