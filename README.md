@@ -6,41 +6,52 @@ We are a group of awesome people working on developing a Blockchain project
 
 These are the awesome people working on the project
 
-## Project Manager
-  # Andrew
-## Requirments Manager 
-  # Abhilash
-## Planner
-  # Paul
-## Desinger 
-  # Vicky
-## Implementation Manager
-  # Alexis
-## Collaboration Software Manager
-  # Oleg
-## Webmaster - Group Internal/Web Software
-  # Nathaniel
-## Documentation Manager
-  # Alexis
-## Testing Manager
-  # Vicky
-## Presentation Manager
-  # Oleg
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# Project Manager
+  - Andrew 
+  
+  [Time Sheet]()
+# Requirments Manager 
+  - Abhilash
+  
+  [Time Sheet]()
+# Planner
+  - Paul
+  
+  [Time Sheet]()
+# Desinger 
+  - Vicky
+  
+  [Time Sheet]()
+# Implementation Manager
+  - Alexis
+  
+  [Time Sheet]()
+# Collaboration Software Manager
+  - Oleg
+  
+  [Time Sheet]()
+# Webmaster - Group Internal/Web Software
+  - Nathaniel
+  
+  [Time Sheet]()
+# Documentation Manager
+  - Alexis
+  
+  [Time Sheet]()
+# Testing Manager
+  - Vicky
+  
+  [Time Sheet]()
+# Presentation Manager
+  - Oleg
+  
+  [Time Sheet]()
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Github Repository
 
-### Jekyll Themes
+https://github.com/Alexis-Falquier/dominoes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nat3Dogg/Dominos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Google Drive
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://drive.google.com/open?id=1lRRSK4j2FtcZ6up5XzcasjqK47CaIoyG
