@@ -8,26 +8,26 @@ These are the awesome people working on the project
 
 ```markdown
 
-# Project Manager
-  - Andrew
-# Requirments Manager 
-  - Abhilash
-# Planner
-  - Paul
-# Desinger 
-  - Vicky
-# Implementation Manager
-  - Alexis
-# Collaboration Software Manager
-  - Oleg
-# Webmaster - Group Internal/Web Software
-  - Nathaniel
-# Documentation Manager
-  - Alexis
-# Testing Manager
-  - Vicky
-# Presentation Manager
-  - Oleg
+## Project Manager
+  # Andrew
+## Requirments Manager 
+  # Abhilash
+## Planner
+  # Paul
+## Desinger 
+  # Vicky
+## Implementation Manager
+  # Alexis
+## Collaboration Software Manager
+  # Oleg
+## Webmaster - Group Internal/Web Software
+  # Nathaniel
+## Documentation Manager
+  # Alexis
+## Testing Manager
+  # Vicky
+## Presentation Manager
+  # Oleg
 
 1. Numbered
 2. List
