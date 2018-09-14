@@ -7,34 +7,34 @@ We are a group of awesome people working on developing a Blockchain project
 These are the awesome people working on the project
 
 # Project Manager
-  - [Andrew](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=2147071606)
+  - [Andrew](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=868958763)
   
 # Requirments Manager 
-  - [Abhilash](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=111279330)
+  - [Abhilash](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=686512935)
   
 # Planner
-  - [Paul](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=1515619974)
+  - [Paul](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=553515518)
   
 # Desinger 
-  - [Vicky](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=575414073)
+  - [Vicky](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=1521572527)
   
 # Implementation Manager
-  - [Alexis](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=866691849)
+  - [Alexis](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=575414073)
   
 # Collaboration Software Manager
-  - [Oleg](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=1754479016)
+  - [Oleg](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=356314774)
   
 # Webmaster - Group Internal/Web Software
-  - [Nathaniel](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=344783206)
+  - [Nathaniel](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=1203673486)
   
 # Documentation Manager
   - [Alexis](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=575414073)
   
 # Testing Manager
-  - [Vicky](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=1515619974)
+  - [Vicky](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=1521572527)
   
 # Presentation Manager
-  - [Oleg](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=866691849)
+  - [Oleg](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=356314774)
   
 ```
 
