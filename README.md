@@ -2,11 +2,9 @@
 
 We are a group of awesome people working on developing a Blockchain project
 
-### Markdown
+### The Group
 
 These are the awesome people working on the project
-
-```markdown
 
 ## Project Manager
   # Andrew
