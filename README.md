@@ -46,12 +46,13 @@ These are the awesome people working on the project
   - Oleg
   
   [Time Sheet]()
+  
 ```
 
 ### Github Repository
 
-https://github.com/Alexis-Falquier/dominoes
+<https://github.com/Alexis-Falquier/dominoes>
 
 ### Google Drive
 
-https://drive.google.com/open?id=1lRRSK4j2FtcZ6up5XzcasjqK47CaIoyG
+<https://drive.google.com/open?id=1lRRSK4j2FtcZ6up5XzcasjqK47CaIoyG>
