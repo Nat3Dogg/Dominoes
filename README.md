@@ -8,6 +8,7 @@ We are a group of awesome people working on developing a Blockchain project
 ## The Group
 
 These are the awesome people working on the project
+Click on any name to go to everyones timelong
 
 # Project Manager
   - [Andrew](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=868958763)
@@ -45,6 +46,3 @@ These are the awesome people working on the project
 
 <https://github.com/Alexis-Falquier/dominoes>
 
-### Google Drive
-
-<https://drive.google.com/open?id=1lRRSK4j2FtcZ6up5XzcasjqK47CaIoyG>
