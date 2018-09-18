@@ -2,6 +2,9 @@
 
 We are a group of awesome people working on developing a Blockchain project
 
+## Project Requirements
+  - [Requirements](https://docs.google.com/document/d/1sDV4ONyr7JDSxsILwBTqhoBeqIoOqxwQzLJdQwz2jcs/edit)
+
 ### The Group
 
 These are the awesome people working on the project
