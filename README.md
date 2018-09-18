@@ -44,7 +44,6 @@ Click on any name to go to their timelong
 # Presentation Manager
   - [Oleg](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=356314774)
   
-```
 
 ### Github Repository
 
