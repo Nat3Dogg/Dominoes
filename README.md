@@ -8,6 +8,7 @@ We are a group of awesome people working on developing a Blockchain project
 ## The Group
 
 These are the awesome people working on the project
+
 Click on any name to go to everyones timelong
 
 # Project Manager
