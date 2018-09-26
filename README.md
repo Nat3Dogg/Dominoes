@@ -15,16 +15,16 @@ These are the awesome people working on the project
 Click on any name to go to their timelong
 
 # Project Manager
-  - [Andrew](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=868958763)
+  - [Paul](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=553515518)
   
 # Requirments Manager 
   - [Abhilash](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=686512935)
   
 # Planner
-  - [Paul](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=553515518)
+  - [Vicky](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=1521572527)
   
 # Desinger 
-  - [Vicky](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=1521572527)
+  - [Alexis](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=575414073)
   
 # Implementation Manager
   - [Alexis](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=575414073)
@@ -36,13 +36,13 @@ Click on any name to go to their timelong
   - [Nathaniel](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=1203673486)
   
 # Documentation Manager
-  - [Alexis](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=575414073)
+  - [Nathaniel](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=1203673486)
   
 # Testing Manager
   - [Vicky](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=1521572527)
   
 # Presentation Manager
-  - [Oleg](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=356314774)
+  - [Andrew](https://docs.google.com/spreadsheets/d/1clbyiFC8SHUnTPa70l7aNRvZeR46eT6bNyr3HkXSHTM/edit#gid=868958763)
   
 
 ### Github Repository
